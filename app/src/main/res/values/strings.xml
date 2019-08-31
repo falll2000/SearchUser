@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchUser</string>
+    <string name="search">搜尋</string>
+    <string name="search_hint">請輸入關鍵字後按搜尋</string>
+    <string name="get_user_list_fail">取得資料失敗</string>
+    <string name="no_network">無網路連線，請檢查網路狀態</string>
+    <string name="drag_to_the_bottom">拖到底部</string>
+</resources>
